@@ -1,0 +1,395 @@
+https://www.dtu.dk/ - Danmarks Tekniske Universitet - DTU
+https://www.aqua.dtu.dk/ - Institut for Akvatiske Ressourcer - DTU Aqua
+https://www.bioengineering.dtu.dk/ - Forside - DTU Bioengineering
+https://www.biosustain.dtu.dk/danish - Forside - DTU Biosustain
+https://www.byg.dtu.dk/ - Institut for Byggeri og Anlæg - DTU Byg
+https://www.compute.dtu.dk/ - DTU Compute
+https://www.diplom.dtu.dk/ - Forside - DTU Diplom
+https://www.elektro.dtu.dk/ - DTU Elektro
+https://www.energy.dtu.dk/ - DTU Energi
+https://www.entrepreneurship.dtu.dk/danish - Forside - DTU Entrepreneurship
+https://www.fotonik.dtu.dk/ - Forside - DTU Fotonik
+https://www.fysik.dtu.dk/ - Forside - DTU Fysik
+https://www.food.dtu.dk/ - Forside - DTU Fødevareinstituttet
+https://www.kemi.dtu.dk/ - Forside - DTU Kemi
+https://www.kt.dtu.dk/ - Forside - DTU Kemiteknik
+https://learnforlife.dtu.dk/ - Forside - DTU  Learn for Life
+https://www.man.dtu.dk/ - Forside - DTU Management
+https://www.mek.dtu.dk/ - Institut for Mekanisk Teknologi - DTU Mekanik
+https://www.env.dtu.dk/ - Velkommen til DTU Miljø - DTU Miljø
+https://www.nanolab.dtu.dk/ - Nationalt Center for Nanofabrikation og -karakterisering - DTU Nanolab
+https://www.space.dtu.dk/ - Forside - DTU Space
+https://www.healthtech.dtu.dk/ - Institut for Sundhedsteknologi - DTU Sundhedsteknologi
+https://www.vindenergi.dtu.dk/ - Forside - DTU Vindenergi
+https://www.oilgas.dtu.dk/ - Center for Olie og Gas - DTU
+http://www.dtu.dk/forskning/institutter-og-centre#Forskningsgrupper - Institutter, centre og forskningsgrupper - DTU
+http://www.kurser.dtu.dk - kurser.dtu.dk
+http://www.studieinformation.dtu.dk/ - Forside - Studieinformation
+http://www.inside.dtu.dk - Log på
+https://projektbank.dtu.dk/da-dk/Sider/default.aspx - Praktik- og Projektbank
+http://www.undervisningslokaler.dtu.dk/ - Lokaleoversigt - DTU
+http://www.adk.dtu.dk - DTU Adgangskursus - Adgangskursus
+http://www.alumni.dtu.dk - DTU Alumni - Alumnenetværk for alle med en uddannelse fra DTU (Danmarks Tekniske Universitet) - DTU Alumni
+http://www.polyteknisk.dk/home/subject/dtu_merch - Polyteknisk Boghandel - DTU Merchandise
+http://www.bibliotek.dtu.dk - DTU Bibliotek
+http://orbit.dtu.dk - DTU Research Database
+https://www.dtu.dk/english - Technical University of Denmark - DTU
+https://www.dtu.dk/uddannelse - Uddannelse - DTU
+https://www.dtu.dk/forskning - Forskning - DTU
+https://www.dtu.dk/innovation - Innovation - DTU
+https://www.dtu.dk/samarbejde - Samarbejde med DTU - DTU
+https://www.dtu.dk/om-dtu - Om DTU - DTU
+https://www.dtu.dk/om-dtu/nyheder-og-presse/aktuelt/nyhed?id=d21307a7-5033-4a5b-b34f-d3a8a20b9a6d - Han har gjort faget Elektromagnetisme populært - DTU
+https://www.dtu.dk/nyheder - Nyheder - DTU
+https://www.dtu.dk/nyheder?rss=1 - Nyheder
+https://www.dtu.dk/nyheder/Nyhed?id={025FB7E5-3D03-4BB7-BB19-F793567831F4} - DTU opruster til 10.000 covid-19-test i døgnet - DTU
+https://www.dtu.dk/nyheder/Nyhed?id={A70F7FB4-1D38-4EF3-95CD-3565B737AE4D} - DTU´s innovationshub åbner med plads nye partnere  - DTU
+https://www.dtu.dk/nyheder/Nyhed?id={F0E70E1F-14BD-4F7D-A412-96ABE13E3D48} - Prøvehus tester nye principper for byggeri i Arktis - DTU Byg
+https://www.dtu.dk/nyheder/nyhed?id=998aff86-779d-4760-babc-afc68dd77794 - Nyt byggeri på DTU vinder Digitaliseringsprisen - DTU
+https://www.dtu.dk/nyheder/0001/01/nyt-byggeri-paa-dtu-vinder-digitaliseringsprisen?id=998aff86-779d-4760-babc-afc68dd77794 - Nyt byggeri på DTU vinder Digitaliseringsprisen - DTU
+https://www.dtu.dk/uddannelse/diplomingenior - Diplomingeniør - DTU
+https://www.dtu.dk/uddannelse/bachelor - Bachelor - DTU
+https://www.dtu.dk/uddannelse/kandidat - Kandidat - DTU
+https://www.dtu.dk/uddannelse/studieliv/vejledning/studievejledningen_paa_dtu - Studievejledning - DTU
+https://www.dtu.dk/uddannelse/ansoegning-og-optagelse - Ansøgning og optagelse - DTU
+https://www.dtu.dk/service/telefonbog - Telefonbog - DTU
+https://www.dtu.dk/om-dtu/nyheder-og-presse/presseservice - Presseservice - DTU
+https://www.dtu.dk/kalender - Kalender - DTU
+https://www.dtu.dk/kalender/Arrangement?id={F243A1C6-54D5-4543-8DA7-9924D50712D0} - 41st Risø International Symposium on Materials Science - DTU Vindenergi
+https://www.dtu.dk/kalender/Arrangement?id={0AD75D47-D588-4438-97E3-5ECB0B7DDF88} - PhD Defence by David Benjamin Christensen - DTU Kemi
+https://www.dtu.dk/kalender/Arrangement?id={EA91CD57-7BA0-461C-A1A6-AA046CC0C117} - Ph.d. forsvar Mehmet Ozan Gözcü - DTU Vindenergi
+https://www.dtu.dk/kalender/Arrangement?id={9DB07621-1F26-4456-8103-0DA8BDD7842F} - Ph.d.-forsvar Enrico Baldasso - DTU
+https://engineering-camp.dtu.dk/ - Forside - Engineering camp for gymnasiepiger
+https://hco2020.dk/ - 403 Forbidden
+https://www.dtu.dk/Service/Brug-af-personoplysninger - Brug af personoplysninger på DTU's hjemmesider - DTU
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger - DTU Job og Karriere - DTU
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=90ace1bb-b8db-4a6a-957d-34c333c501cf - Fermentation specialist
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=624f1c80-b214-4b8d-984d-6eebb257541e - PhD student in High-throughput design and screening of novel yeast cell factories for advanced biotherapeutics
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=b3f2be94-3a86-47d1-99a1-d518b01c3266 - Kontrakt- og innovationskoordinator
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=d32e3bab-3bf7-427c-b58f-53c23c141d81 - Postdoc in collaboration with industry
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=065e8bab-9a42-40f3-9772-b16608ef32cd - PhD scholarship in Public Communication of Artifical Technology
+http://twitter.com/#!/DTUtweet
+http://www.facebook.com/dtudk - Danmarks Tekniske Universitet - DTU - Startside | Facebook
+http://www.youtube.com/DTUbroadcast - DTUdk - YouTube
+http://www.linkedin.com/company/technical-university-of-denmark?trk=hb_tab_compy_id_3933
+https://instagram.com/dtudk/ - DTU (@dtudk) • Instagram photos and videos
+https://www.dtu.dk/Om-DTU/Kontakt-og-besoeg/Find-vej - Find vej - kort over DTU - DTU
+https://www.dtu.dk/Om-DTU/Nyheder-og-presse/Presseservice - Presseservice - DTU
+https://www.dtu.dk/Om-DTU/Kontakt-og-besoeg/For-leverandoerer - For leverandører - DTU
+https://www.dtu.dk/Om-DTU/Job-og-karriere - Job og karriere - DTU
+https://www.dtu.dk/Service/coronavirus - Information om corona / COVID 19 - DTU
+https://www.aqua.dtu.dk/english - National Institute of Aquatic Resources - DTU Aqua
+https://www.aqua.dtu.dk/service/kontakt - Kontakt - DTU Aqua
+https://www.aqua.dtu.dk/forskning - Forskning - DTU Aqua
+https://www.aqua.dtu.dk/raadgivning - Rådgivning og diagnostik - DTU Aqua
+https://www.aqua.dtu.dk/uddannelse - Uddannelse - DTU Aqua
+https://www.aqua.dtu.dk/innovation - Innovation og erhvervssamarbejde - DTU Aqua
+https://www.aqua.dtu.dk/om_dtu_aqua - Om os - DTU Aqua
+https://www.aqua.dtu.dk/nyheder - Nyheder - DTU Aqua
+https://www.aqua.dtu.dk/nyheder/Nyhed?id={C9D4BD8C-1CF5-45EB-AB6D-7855B7B9A64A} - Ph.d.-forsvar om flaskehalse under laksesmoltvandring - DTU Aqua
+https://www.aqua.dtu.dk/nyheder/Nyhed?id={7A83584D-B3FE-40A6-B834-C589DC5B7C22} - Første kortlægning af mikroplastik i havet ved Nuuk - DTU Aqua
+https://www.aqua.dtu.dk/nyheder/Nyhed?id={024DA7A2-D0E8-4023-883F-13E7BCC9AFA1} - Fisk må flytte langt væk ved hedebølger i havet - DTU Aqua
+https://www.aqua.dtu.dk/nyheder/Nyhed?id={E96D0433-CD97-41EF-8C66-3A8F213D9C7C} - Hjælp DTU Aqua med information om laks med tegn på Red Skin Disease - DTU Aqua
+https://www.aqua.dtu.dk/om_dtu_aqua/medarbejdere - Medarbejdere på DTU Aqua - DTU Aqua
+https://www.aqua.dtu.dk/om_dtu_aqua/faciliteter - Faciliteter - DTU Aqua
+https://www.aqua.dtu.dk/om_dtu_aqua/publikationer - Publikationer fra DTU Aqua - DTU Aqua
+https://www.aqua.dtu.dk/raadgivning/diagnostik - Diagnostik af sygdomme hos fisk og skaldyr - DTU Aqua
+https://www.fiskepleje.dk/raadgivning/fiskemaerker - Har du fundet et fiskemærke eller chip? - Fiskepleje.dk
+https://www.fiskepleje.dk/nyheder - Nyheder om fisk i vandløb, søer og havet - Fiskepleje.dk
+https://www.fiskepleje.dk/nyheder/Nyhed?id={C6C1BF20-B7BF-4A52-BCDF-3DB092297D12} - Succesfuld udsætning af skrubber i 2020 - Fiskepleje.dk
+https://www.fiskepleje.dk/nyheder/Nyhed?id={CBF3D444-538E-469C-BDA6-39CDFF1313B3} - Dansk forskning giver ny viden om Europas sydligste laksebestand - Fiskepleje.dk
+https://www.fiskepleje.dk/nyheder/Nyhed?id={C9D4BD8C-1CF5-45EB-AB6D-7855B7B9A64A} - Ph.d.-forsvar om flaskehalse under laksesmoltvandring - DTU Aqua
+https://www.fiskepleje.dk/nyheder/Nyhed?id={5F350683-9BA1-44E2-AC10-57BD28FC4578} - Også i år er det planen at fange og mærke blåfinnede tun i Skagerrak i et samarbejde mellem forskere og sportsfiskere - Fiskepleje.dk
+https://issuu.com/dtudk/docs/dynamo-61?fr=sOTVhMTQ4NjgwMg - Dynamo nr 61 by DTUdk - Issuu
+https://www.aqua.dtu.dk/om_dtu_aqua/information_til_leverandoerer - Information til leverandører - DTU Aqua
+https://www.aqua.dtu.dk/om_dtu_aqua/ledige_stillinger - Ledige stillinger på DTU Aqua - DTU Aqua
+https://www.aqua.dtu.dk/om_dtu_aqua/ledige_stillinger/job?id=3a01e284-31c4-4a3d-855b-0b5202286db2 - Laborantpraktikant &#8211; Sektion for Akvakultur, Hirtshals
+https://www.aqua.dtu.dk/om_dtu_aqua/ledige_stillinger/job?id=16018669-8136-4107-b8c8-103ce8d0d1e5 - Laborantpraktikant til molekylære analyser og histologi
+https://www.aqua.dtu.dk/om_dtu_aqua/ledige_stillinger/job?id=36086cbb-858b-45be-acd5-3689217bfecf - Laborantpraktikant, Enhed for fiske-og skaldyrssygdomme
+https://www.aqua.dtu.dk/om_dtu_aqua/ledige_stillinger/job?id=0f09825e-f040-424a-aeed-aa4b710cffb3 - PhD scholarship in Marine Ecosystem Modelling
+https://www.aqua.dtu.dk/om_dtu_aqua/ledige_stillinger/job?id=d5706efe-437a-422e-ae00-6111637b2c4f - PhD Scholarship in Fisheries Technology
+https://www.facebook.com/aquascitech - Aquatic Science and Technology - MSc Eng - Startside | Facebook
+https://www.youtube.com/channel/UCYkJm0GQ4JEijnVA7BRw1Iw - DTU Aqua Broadcast - YouTube
+https://www.linkedin.com/company/dtu-aqua?trk=tyah&trkInfo=tarId%3A1420800498689%2Ctas%3ADTU+Aqua%2Cidx%3A1-1-1
+https://mail.win.dtu.dk - Outlook
+https://www.bioengineering.dtu.dk/english - Home - DTU Bioengineering
+https://www.bioengineering.dtu.dk/service/kontakt - Kontakt - DTU Bioengineering
+https://www.bioengineering.dtu.dk/forskning - Forskning - DTU Bioengineering
+https://www.bioengineering.dtu.dk/uddannelse - Uddannelse i verdensklasse - DTU Bioengineering
+http://www.dtu.dk/uddannelse/bachelor/bioteknologi - Bioteknologi (Bachelor) - DTU
+http://www.dtu.dk/uddannelse/kandidat/bioteknologi - Bioteknologi (Kandidat) - DTU
+https://www.bioengineering.dtu.dk/skolegymnasier - Skoler & gymnasier - DTU Bioengineering
+https://www.bioengineering.dtu.dk/ominstituttet - Om DTU Bioengineering - DTU Bioengineering
+https://www.bioengineering.dtu.dk/nyheder - Nyheder - DTU Bioengineering
+https://www.bioengineering.dtu.dk/samarbejder - Samarbejder - DTU Bioengineering
+https://www.bioengineering.dtu.dk/kalender - Kalender - DTU Bioengineering
+https://www.bioengineering.dtu.dk/nyheder/nyhed?id=0899f45f-8753-4d17-9530-5db960850f02 - Nyt studie kan føre til sundhedsfremmende mælkeerstatning - DTU Bioengineering
+https://www.bioengineering.dtu.dk/nyheder/nyhed?id=c6c2717c-53d1-48ca-8ef1-7e88b3618ef1 - Studerende vil markedsføre 3D-printede fisk - DTU Bioengineering
+https://www.bioengineering.dtu.dk/nyheder/nyhed?id=1750dae0-5264-4b5b-8b3d-ed1378595b19 - Ny metode letter vejen til at finde nye antistoffer - DTU Bioengineering
+http://www.dtu.dk/Service/Brug-af-personoplysninger - Brug af personoplysninger på DTU's hjemmesider - DTU
+https://www.bioengineering.dtu.dk/ominstituttet/job - Ledige stillinger - DTU Bioengineering
+https://www.bioengineering.dtu.dk/ominstituttet/job/job?id=624f1c80-b214-4b8d-984d-6eebb257541e - PhD student in High-throughput design and screening of novel yeast cell factories for advanced biotherapeutics
+https://www.bioengineering.dtu.dk/ominstituttet/job/job?id=9a675c92-601a-4657-b60e-03febd9467e2 - Laborantpraktikant søges til sektion for Protein Kemi og Enzymteknologi, PCET
+https://www.bioengineering.dtu.dk/ominstituttet/job/job?id=6fc01ce5-0617-43db-8c54-07194234425a - Laborantpraktikant til forskning i immunforsvaret og livsstilssygdomme
+https://www.bioengineering.dtu.dk/ominstituttet/job/job?id=f5a815df-a0fe-4816-a239-23206e09b42d - Laborantpraktikant, Sektion for Mikrobiel og Kemisk Økologi
+https://www.bioengineering.dtu.dk/ominstituttet/job/job?id=0ed1581c-f912-4b95-9b95-8c70f7088e82 - Laborantpraktikant, Sektion for Syntetisk Biologi
+https://twitter.com/DTUbioengineer?lang=da
+https://www.facebook.com/Bioingenior - Fremtidens Bioingeniører - Startside | Facebook
+https://www.youtube.com/channel/UCe19VDtGpx7sXtFwZTbNtEg - DTU Bioengineering - YouTube
+https://www.linkedin.com/company/department-of-systems-biology/
+https://www.biosustain.dtu.dk/ - Novo Nordisk Foundation Center for Biosustainability (DTU) - DTU Biosustain
+https://www.biosustain.dtu.dk/danish/service/kontakt - Kontakt - DTU Biosustain
+https://www.biosustain.dtu.dk/danish/nyhedsbase - Nyheder - DTU Biosustain
+https://www.biosustain.dtu.dk/danish/presse - Presse - DTU Biosustain
+http://www.biosustain.dtu.dk/ - Novo Nordisk Foundation Center for Biosustainability (DTU) - DTU Biosustain
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=222cb759-f69d-4c15-925b-864241108ec6 - PhD scholarship in Systems Metabolic Engineering
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=47ff58ca-8dba-4470-9e37-d358d3a765b3 - Senior Researcher for microbiome engineering project
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=9d1b8649-cc53-4a07-9e69-4977428a13f2 - Postdoc in Software Engineering for Scientific Programming
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=150b6163-98ca-45a3-9b19-95f5f6442b8e - Bioinformatician with software engineering skills
+https://www.byg.dtu.dk/service/kontakt - Kontakt - DTU Byg
+https://www.byg.dtu.dk/service/telefonbog - Telefonbog - DTU Byg
+https://www.byg.dtu.dk/english - Department of Civil Engineering  - DTU Civil Engineering
+https://www.byg.dtu.dk/forskning - Forskning - DTU Byg
+http://www.bygningsdesign.byg.dtu.dk/english - Design og Processer - Design & Processer
+http://www.bfi.byg.dtu.dk/ - Sektion for Energi og installationer - Sektionen for Energi og installationer
+http://www.ib.byg.dtu.dk/ - Sektion for Indeklima - Indeklima
+https://www.byg.dtu.dk/english/research/Materials-and-Durability - Materials and Durability - DTU Civil Engineering
+http://www.geotechnics.byg.dtu.dk/ - Section for Geotechnics and Geology
+http://www.se.byg.dtu.dk/ - Section for Structures and Safety
+https://www.byg.dtu.dk/samarbejde - Samarbejde - DTU Byg
+https://www.dtu.dk/samarbejde/ais-artikler/2019/10/cirkulaert-byggeri?id=27d4107c-7971-414a-9e5c-36cd94d3375a - - DTU
+https://www.dtu.dk/samarbejde/ais-artikler/2018/11/sektorudviklingsprojekt-om-smarte-energisystemer?id=66478b1a-baea-4db3-8c17-ded61ecd8b91 - - DTU
+https://www.byg.dtu.dk/uddannelse - Uddannelse - DTU Byg
+https://www.dtu.dk/Uddannelse/Diplomingenior/Bygningsdesign - Bygningsdesign (Diplomingeniør)  - DTU
+https://www.dtu.dk/Uddannelse/Diplomingenior/arktisk-teknologi - Arktisk Byggeri og Infrastruktur (Diplomingeniør) - DTU
+https://www.dtu.dk/Uddannelse/Bachelor/Byggeteknologi - Byggeteknologi (Bachelor) - DTU
+https://www.dtu.dk/Uddannelse/Bachelor/Bygningsdesign - Bygningsdesign (Bachelor) - DTU
+https://www.dtu.dk/Uddannelse/Kandidat/Byggeteknologi - Byggeteknologi (Kandidat) - DTU
+https://www.dtu.dk/Uddannelse/Kandidat/Bygningsdesign - Bygningsdesign (Kandidat) - DTU
+https://www.dtu.dk/english/education/msc/joint-international-programmes-1-/cold-climate-engineering - Cold Climate Engineering (Nordic MSc) - DTU
+https://www.dtu.dk/uddannelse/kandidat/olie-og-gasteknologi - Olie- og Gasteknologi (Kandidat) - DTU
+https://www.brand.dtu.dk/ - Forside - Master i Brandsikkerhed
+https://www.byg.dtu.dk/om-dtu-byg - Om DTU Byg - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/nyheder - Nyheder - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/nyheder/Nyhed?id={F0E70E1F-14BD-4F7D-A412-96ABE13E3D48} - Prøvehus tester nye principper for byggeri i Arktis - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/nyheder/Nyhed?id={939BFAF0-07A2-4660-9B57-F25354D745F1} - Udendørs pauser mindsker spredning af corona-virus - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/nyheder/Nyhed?id={0EB63DE2-C321-4DB7-AB33-418E60905508} - Hør akustikken i din bygning, før den bliver bygget - DTU Elektro
+https://www.byg.dtu.dk/om-dtu-byg/nyheder/Nyhed?id={D7E7547E-5600-4801-9A5D-A74B15FE8186} - Ventilation kan forebygge smittespredning - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/kalender - Kalender - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/kalender/Arrangement?id={6ABE090F-B027-422E-92CC-C0064E203234} - Webinar: Udbud 2 om bygnings- og materialepas, webinar om operationalitet og implementering - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/kalender/Arrangement?id={6E97C450-D15A-4244-A962-078A0BBC00DB} - Webinar: Analyse: Forretningsmodeller - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/kalender/Arrangement?id={774B2AB0-BF63-4255-99EA-CB5CCAB7AECE} - Webinar: Analyse: BIM - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/kalender/Arrangement?id={F71CD1BC-8BF5-45D9-B954-ED448070AF64} - Afslutning på webinarforløb - DTU Byg
+https://www.dtu.dk/service/telefonbog/person?id=28579&tab=2&qt=dtupublicationquery - Niels-Jørgen Aagaard - DTU
+https://www.byg.dtu.dk/om-dtu-byg/jobliste_dtu_byg - Ledige stillinger - DTU Byg
+https://www.byg.dtu.dk/om-dtu-byg/jobliste_dtu_byg/job?id=281cbf77-f2a4-4322-8f97-fd80501f3b9f - Laborantpraktikant, Sektion for Materialer og holdbarhed
+https://www.facebook.com/dtu.byg - DTU Byg - Startside | Facebook
+https://www.linkedin.com/company/28983237
+https://www.compute.dtu.dk/service/kontakt - Kontakt - DTU Compute
+https://www.compute.dtu.dk/english - DTU Compute
+https://www.compute.dtu.dk/uddannelse - Uddannelse - DTU Compute
+https://www.compute.dtu.dk/forskning - Forskning - DTU Compute
+https://www.compute.dtu.dk/phd - ph.d.-programmet DTU Compute - DTU Compute
+https://www.dtu.dk/Uddannelse/Efteruddannelse/Kurser/Computer-science-kurser - Digitale kompetencekurser - DTU
+https://www.compute.dtu.dk/samarbejde - Samarbejde med erhvervsliv og myndigheder - DTU Compute
+https://www.compute.dtu.dk/medarbejdere - Medarbejdere - DTU Compute
+https://www.compute.dtu.dk/om_os - Om os - DTU Compute
+https://www.skylab.dtu.dk/technology/dtu-skylab-digital/projects/current/digital-health-bootcamp - Digital Health Bootcamp - DTU Skylab
+https://www.compute.dtu.dk/nyheder - Nyheder - DTU Compute
+https://www.compute.dtu.dk/nyheder/Nyhed?id={79513D4E-628B-4BE2-858B-402EE574A065} - New liquid marker system helps medical doctors optimize precision in surgery and radiation therapy on cancer patients - DTU Sundhedsteknologi
+https://www.compute.dtu.dk/nyheder/Nyhed?id={73D4CBC2-6834-4DCA-99C5-32D36F5BB2CF} - Flot optag til DTU's uddannelser - DTU
+https://www.compute.dtu.dk/nyheder/Nyhed?id={276EAABB-8E3A-4DF3-935B-EA627808BFB6} - Flere ansøgninger end nogensinde til DTU’s uddannelser - DTU
+http://www.bigdata.dtu.dk/ - Home - Big Data•DTU
+http://smart-cities-centre.org
+http://www.cachet.dk/ - Copenhagen Center for Health Technology - CACHET
+https://dabai.dk/en - Dabai | Dabai
+http://iotcenter.dk/ - IoT Center – Research Center in Internet of Things at the Technical University of Denmark
+http://www.learnt.dtu.dk/ - Home - LearnT
+https://www.compute.dtu.dk/social-stream - Social Stream - DTU Compute
+https://www.compute.dtu.dk/kalender - Kalender - DTU Compute
+https://www.compute.dtu.dk/kalender/Arrangement?id={36C09E13-B904-486A-B22B-35FAFC9EF207} - Course: Using R in Data Science - DTU Compute
+https://www.compute.dtu.dk/kalender/Arrangement?id={98F1B6D6-EF6B-4900-80C4-28917C44D53A} - Course: Using R in Data Science - DTU Compute
+https://www.compute.dtu.dk/kalender/Arrangement?id={EBB15560-E73B-4C24-B6E2-3606EA80A3BA} - Course: Deep Learning - DTU Compute
+https://www.compute.dtu.dk/kalender/Arrangement?id={871697DC-7CF4-4A7F-8686-E1986C3B8580} - Course: Deep Learning - DTU Compute
+https://maps.google.com/maps/ms?msid=202877233734783870181.0004e5f1b0d16450e4bba&msa=0 - Building 324, DTU Compute – Google My Maps
+https://www.compute.dtu.dk/om_os/ledige_stillinger - Ledige stillinger - DTU Compute
+https://www.compute.dtu.dk/om_os/ledige_stillinger/job?id=a49e8a64-7cda-4d2f-bbac-c628492650d6 - PhD position in Material Appearance Specification and Rendering using the BSSRDF
+https://www.compute.dtu.dk/om_os/ledige_stillinger/job?id=b5480b9b-a7cc-4f4d-a414-c86677330935 - PhD position in Modelling and Predictive Rendering of Particulate Materials
+https://twitter.com/DTU_Compute
+http://facebook.com/dtudk - Danmarks Tekniske Universitet - DTU - Startside | Facebook
+https://www.youtube.com/channel/UCInJNkGjG_nH8cmZ9513w8A - DTU Compute - YouTube
+https://www.diplom.dtu.dk/service/kontakt - Kontakt - DTU Diplom
+https://www.diplom.dtu.dk/english - Forside - DTU Diplom
+https://www.diplom.dtu.dk/om-dtu-diplom - Om DTU Diplom - DTU Diplom
+https://www.diplom.dtu.dk/undervisning - Undervisning - DTU Diplom
+https://www.diplom.dtu.dk/erhvervssamarbejde-1 - Erhvervssamarbejde med DTU Diplom - DTU Diplom
+https://www.diplom.dtu.dk/projekter - Projekter - DTU Diplom
+https://www.diplom.dtu.dk/nyheder - Nyheder - DTU Diplom
+https://www.diplom.dtu.dk/nyheder/Nyhed?id={7A785AFF-7CD1-44E0-9759-F017806CDE52} - 160 studerende udvikler apps med virksomheder - DTU Diplom
+https://www.diplom.dtu.dk/nyheder/Nyhed?id={0EC35DA7-C02D-4025-928D-E2751D9F8412} - Virksomheder "i lære" som hackere - DTU Diplom
+https://www.diplom.dtu.dk/nyheder/Nyhed?id={309A637B-2D6C-45AC-AF5E-553A6EDB2A35} - Undervisere deler erfaringer - DTU Diplom
+https://www.diplom.dtu.dk/nyheder/Nyhed?id={A800F7FB-00B9-4A51-B5AE-68F234B761B4} - Skorsten med grønt partikelfilter er klar til brandtest - DTU Diplom
+http://www.diplom.redigering8.sitecore.dtu.dk/om-dtu-diplom/vaerksteder-og-laboratorier - DesignBuildLab - DTU Diplom
+https://www.diplom.dtu.dk/erhvervssamarbejde-1/samarbejd-med-en-studerende1 - Samarbejd med en studerende - DTU Diplom
+https://www.diplom.dtu.dk/erhvervssamarbejde-1/samarbejd-med-en-ekspert1 - Samarbejd med en ekspert - DTU Diplom
+https://www.diplom.dtu.dk/social-stream - Social Stream - DTU Diplom
+https://www.diplom.dtu.dk/kalender - Kalender - DTU Diplom
+https://www.diplom.dtu.dk/kalender/Arrangement?id={D189D0B2-B87A-4B30-9538-E9E41ED47CF6} - App-ønskedag. Pitch din app-idé og få den lavet af studerende - DTU Diplom
+https://www.diplom.dtu.dk/kalender/Arrangement?id={A85FD3A6-AD8D-49F6-93A5-B3060A8D305B} - ITS21 Conference on Interdisciplinary Teamwork Skills for the 21st Century - DTU Diplom
+https://www.facebook.com/dtudk - Danmarks Tekniske Universitet - DTU - Startside | Facebook
+https://www.linkedin.com/company/42293?trk=tyah&trkInfo=tarId%3A1403167125527%2Ctas%3Adtu%20diplom%2Cidx%3A1-1-1
+https://www.elektro.dtu.dk/english - Home - DTU Electrical Engineering
+https://www.elektro.dtu.dk/forskning - Forskning - DTU Elektro
+https://www.elektro.dtu.dk/samarbejde - Samarbejde - DTU Elektro
+https://www.elektro.dtu.dk/uddannelse - Uddannelse - DTU Elektro
+https://www.elektro.dtu.dk/medarbejdere - Medarbejdere - DTU Elektro
+https://www.elektro.dtu.dk/om-os - Om os - DTU Elektro
+https://www.elektro.dtu.dk/nyheder/nyhed?id=da79404d-ba7a-4d13-9ff3-737f6d6fdafb - Første kandidat i autonome systemer færdiguddannet - DTU Elektro
+http://dtu.dk/ena - Engineering Acoustics (MSc) | Read your MSc at Technical University of Denmark - DTU
+https://issuu.com/dtudk/docs/msc-brochure-dtu-elektro-2020?fr=sOGQ2MzQ4NjgwMg - Engineering Acoustics - MSc Eng programme by DTUdk - Issuu
+https://issuu.com/dtudk/docs/dtu-strategi-2020-2025?fr=sMTUzNDQ4NjgwMg - Strategi 2020-2025 Teknologi for mennesker by DTUdk - Issuu
+https://www.elektro.dtu.dk/nyheder - Nyheder - DTU Elektro
+https://www.elektro.dtu.dk/nyheder/Nyhed?id={D21307A7-5033-4A5B-B34F-D3A8A20B9A6D} - Han har gjort faget Elektromagnetisme populært - DTU
+https://www.elektro.dtu.dk/nyheder/Nyhed?id={5331C117-9351-4F45-B2E7-367429CC144B} - New Anechoic Chamber Successfully Installed - EMS
+https://www.elektro.dtu.dk/nyheder/Nyhed?id={57C1EAAD-C469-4487-8C62-C7D83A27A274} - New Building 357 Progresses as Planned - EMS
+https://www.act.elektro.dtu.dk/ - Acoustic Technology - ACT
+https://www.aut.elektro.dtu.dk/ - Automation and Control - AUT
+https://www.cee.elektro.dtu.dk/ - Center for Electric Power and Energy - CEE
+http://www.ems.elektro.dtu.dk/ - Electromagnetic Systems - EMS
+https://www.ele.elektro.dtu.dk/ - Electronics - ELE
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/dtu-radio-anechoic-c-alastair-philip-wiper-2.ashx?mw=940&mh=490&hash=1BC9E74525C1339A68D0C583D12D524E907562C5
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/syslab_skilte_facilities_tof0873-copy_iweb19.ashx?mw=940&mh=490&hash=4C05215FA83206B4BE633D8902E7BE05D3F0F7A2
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/anechoic_lydddt_rum-1-mikal_schlosser-_700x350.ashx?mw=940&mh=490&hash=FC89ABAC838B84BED51E19F38A9FBC33E9AFD314
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/20151023_dsc8372_m49.ashx?mw=940&mh=490&hash=8B521036929A11FC71218D5B7D0EF350FA3750C0
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/act_efren_m49_tof0297-copy.ashx?mw=940&mh=490&hash=4FA63173EB5F837A1EA2997938F577ECEA89AC60
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/avil_wall_tn.ashx?mw=940&mh=490&hash=AFFEC2F14A7550E8EC0AA95A52EC97CF8B6465C9
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/stamers_kontor_151029_agora_1954_reduced.ashx?mw=940&mh=490&hash=A74B5027A1ED1C77663561AD1F80593BD34465BE
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/robots_tof9970-copy_m49.ashx?mw=940&mh=490&hash=DE5115C898B61D79B6F68D9ED69ABB27C2F6AD4D
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/srp_course_anechoic_chamber_m17.ashx?mw=940&mh=490&hash=FF2898ECD172180369FAC68EAA33B5979AFB1DFA
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/ele_gear_tof0398-copy_m49.ashx?mw=940&mh=490&hash=4A8C9AA7CB66EECBA79487D40C805896E2D8CA2C
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/syslab_tof0465_m49.ashx?mw=940&mh=490&hash=223A320546C3DFCE9337F96E28BEE281420F82BB
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/_tof0145-copy_m49.ashx?mw=940&mh=490&hash=B60F6B6466C7BA83D47814E24F4BD25FF305CB8C
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/icl_tof.ashx?mw=940&mh=490&hash=064EEE4C529095F6A90A2B690F6BB80A01B491B0
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/dtu_anechoic_chamber_d_m49.ashx?mw=940&mh=490&hash=667E35B57341CF5ED520516FABB89935C7A46020
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/emc_ele_tof0369-copy_m49.ashx?mw=940&mh=490&hash=ED2F845A8D67C46C9C147D7F6EEE7E7CB7EFF852
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/avil_speakers_ico0924.ashx?mw=940&mh=490&hash=5EF33D5D5386B6A71DC98B677062578ECA0829F8
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/highvoltagelab_view_m17.ashx?mw=940&mh=490&hash=17238F10C017224FE56460C6489FBBC683A6B56B
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/dtu_esa_tof0890-copy_m49.ashx?mw=940&mh=490&hash=730637BE00B5A5951667D26062BD013A7A91543D
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/hea-microphone-sphere.ashx?mw=940&mh=490&hash=F2069DA1F6F169A7B6AD15BA6AD3630574A49F1B
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/avil_hz6a5005.ashx?mw=940&mh=490&hash=E4C77263997C328D0CF62BF81C3A0BCF4F77B69B
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/acoustic_research_facility_m17.ashx?mw=940&mh=490&hash=960614744F5CAC7A2EA6E0F4E9BC9D8DB2497823
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/robocup-2016-22_m49.ashx?mw=940&mh=490&hash=D160899B8B7C57CB16C9AAD86F426BD10ACDE1B5
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/acoustic_speaker_setup_small.ashx?mw=940&mh=490&hash=47F2A6BE3022A98383429BAD852544FBB3E9D820
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/_tof0218-copy_m49.ashx?mw=940&mh=490&hash=4178F39A72D57207F1724CEC1314CFDB669C1801
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m17 facilities/hea_listening_roomm17.ashx?mw=940&mh=490&hash=08F80C44E12E15089309D6417F824C2D6CF2CA5A
+https://www.elektro.dtu.dk/-/media/institutter/elektro/elektro/forside/m49 news/radio-anechoic-wiper_m49.ashx?mw=940&mh=490&hash=C2A2B968725EE3080260967AB30F1961ADE7D511
+https://www.elektro.dtu.dk/om-os/social-stream-dtu-elektro - Social Stream DTU Elektro - DTU Elektro
+https://www.elektro.dtu.dk/english/about-us/newsletter-dtu-elektro - DTU Elektro - Newsletter - DTU Electrical Engineering
+https://www.elektro.dtu.dk/forskning/find-eksperten_ - Find eksperten på DTU Elektro - DTU Elektro
+https://www.elektro.dtu.dk/english/about-us/facts-and-figures - Facts and figures - DTU Electrical Engineering
+https://www.dtu.dk/uddannelse/kandidat/elektroteknologi - Elektroteknologi (Kandidat) - DTU
+https://www.dtu.dk/uddannelse/kandidat/autonome-systemer - Autonome Systemer - DTU
+https://www.dtu.dk/uddannelse/kandidat/lyd-og-akustisk-teknologi - Lyd og Akustisk Teknologi (Kandidat) - DTU
+https://www.elektro.dtu.dk/kalender - Kalender - DTU Elektro
+https://www.elektro.dtu.dk/kalender/Arrangement?id={A7FE9B50-CEFB-476B-B5D7-A0809A779599} - ROS Meetup at DTU - DTU Electrical Engineering
+https://www.elektro.dtu.dk/kalender/Arrangement?id={DECF1F89-5E24-44A9-81F0-BC2182B7EFB7} - Inaugural Lecture and reception for Tomislav Dragicevic - CEE
+https://www.elektro.dtu.dk/kalender/Arrangement?id={07D2EE16-6B02-44F2-AD01-9CC8DA61B52C} - Girls' Day in Science at DTU - DTU Electrical Engineering
+https://www.elektro.dtu.dk/kalender/Arrangement?id={CB3CA621-5CAB-4ABC-AF94-E5D095BBA044} - Engineering camp for piger - DTU
+https://www.elektro.dtu.dk/om-os/ledige-stillinger - Ledige stillinger - DTU Elektro
+https://www.elektro.dtu.dk/om-os/ledige-stillinger/job?id=23a3e8e2-0b53-4a91-b02e-c87be44c4da6 - PhD scholarship in Advanced Wireless Power Transfer System
+https://www.elektro.dtu.dk/om-os/ledige-stillinger/job?id=d28ae9e6-7e43-407e-be08-99823075bd73 - PhD scholarship in Concepts and Control Development of Robust, Low DC Capacitance, High Efficiency Power Converters/Drives
+https://www.elektro.dtu.dk/om-os/ledige-stillinger/job?id=49acdb72-eb49-4819-9a7b-8e0f1beef631 - PhD scholarship in Urban Electric Vehicle Charging Infrastructure &#8211; Grid Impacts and Services
+https://www.elektro.dtu.dk/om-os/ledige-stillinger/job?id=ed9b099c-a55d-4d95-a48d-06aec77a4d5f - PhD scholarship in Intelligent maintenance of transmission systems with large share of AC cables
+https://www.elektro.dtu.dk/om-os/ledige-stillinger/job?id=6bdb78a0-60dd-4843-ac29-5c67cd7bd056 - PhD scholarship in Microwave Antenna Technology
+http://www.facebook.com/dtuelektro - DTU Elektro - Startside | Facebook
+https://www.linkedin.com/company/10416443
+https://www.energy.dtu.dk/english - DTU Energy
+https://www.energy.dtu.dk/nyheder - Nyheder - DTU Energi
+https://www.energy.dtu.dk/uddannelse - Uddannelse - DTU Energi
+https://www.energy.dtu.dk/forskning - Forskning - DTU Energi
+https://www.energy.dtu.dk/innovation - Innovation - DTU Energi
+https://www.energy.dtu.dk/medarbejdere - Medarbejdere - DTU Energi
+https://www.energy.dtu.dk/om-dtu-energi - Om DTU Energi - DTU Energi
+https://www.energy.dtu.dk/nyheder/Nyhed?id={40F87739-6511-43C2-A445-A25A58D12464} - Ny teknologi kan levere bæredygtigt brændstof  - DTU Energi
+https://www.energy.dtu.dk/nyheder/Nyhed?id={5CAC68FE-3378-4263-9BF0-63220A74B354} - Ny metode til at danne CO2-neutrale brændstoffer - DTU
+https://www.energy.dtu.dk/nyheder/Nyhed?id={75A5BE0D-6C5B-42F3-8CF9-0440EB321B04} - Nye professorer på DTU Energi - DTU Energi
+https://www.energy.dtu.dk/nyheder/Nyhed?id={2D300AB6-2C21-4800-B914-F8ACEE137976} - DTU-professor udpeget som Danmarks Mission Innovation Champion - DTU Energi
+https://www.energy.dtu.dk/kalender - Kalender - DTU Energi
+https://www.energy.dtu.dk/kalender/Arrangement?id={71F49933-D01A-4E8E-9818-7404E8620884} - Ph.d.-forsvar - Jaysree Pan - DTU Energi
+https://www.energy.dtu.dk/kalender/Arrangement?id={8718758A-847F-44A0-A13C-EF204498B119} - Ph.d.-forsvar - Giovanni Fevola - DTU Energi
+http://www.energy.dtu.dk/Om-DTU-Energi/Ledige_stillinger - Ledige stillinger - DTU Energi
+http://www.jess-summerschool.eu - Joint European Summer School - JESS Summer School
+https://www.conferencemanager.dk/CINEMAXVI - CANCELLED! CINEMAX VI
+http://www.elchemea.dk - Elchemea Analytical
+http://www.rfccontrol.dk - DTU Energy RFCcontrol
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=60c76713-a47a-49c6-b6e3-b06488703e16 - PhD scholarship in Organic Electrosynthesis
+https://www.facebook.com/DTUEnergy - Facebook
+https://www.linkedin.com/company/dtu-energy
+https://www.entrepreneurship.dtu.dk/danish/service/kontakt - Kontakt - DTU Entrepreneurship
+https://www.entrepreneurship.dtu.dk/ - Home - DTU Entrepreneurship
+https://goo.gl/maps/7d4sp6AHsebnPGs69 - Google Maps
+https://www.dtu.dk/english/Service/Use-of-personal-data - Use of personal data - DTU
+https://twitter.com/DTUEntrepreneur
+https://www.facebook.com/DTUEntrepreneurship - DTU Entrepreneurship - Startside | Facebook
+https://www.linkedin.com/company/dtu-entrepreneurship/
+https://www.instagram.com/dtu_entrepreneurship/ - DTU Entrepreneurship (@dtu_entrepreneurship) • Instagram photos and videos
+https://www.fotonik.dtu.dk/service/info - Information - DTU Fotonik
+https://www.fotonik.dtu.dk/english - Front page - DTU Fotonik
+https://www.fotonik.dtu.dk/kvalitetsuddannelse - Uddannelse - DTU Fotonik
+https://www.fotonik.dtu.dk/forskning - Forskning - DTU Fotonik
+https://www.fotonik.dtu.dk/innovation - Innovation - DTU Fotonik
+https://www.fotonik.dtu.dk/om-fotonik - Om Fotonik - DTU Fotonik
+https://www.fotonik.dtu.dk/tilbud-til-skoler - Tilbud til skoler - DTU Fotonik
+https://www.fotonik.dtu.dk/nyheder - Nyheder - DTU Fotonik
+https://www.fotonik.dtu.dk/nyheder/Nyhed?id={27EBE284-8D64-4983-A7BE-C6F0729BDFAC} - Smart sock from DTU aims to monitor blood clot symptoms - DTU Tech Transfer
+https://www.fotonik.dtu.dk/nyheder/Nyhed?id={20F599EB-AB21-488D-8461-6606D0921089} - DTU’s første kandidater i solenergi bliver nu færdige - DTU Fotonik
+https://www.fotonik.dtu.dk/nyheder/Nyhed?id={C2178116-2849-4744-9F56-3F58E8B2C799} - First MSc graduates in Solar Energy at DTU - DTU Fotonik
+https://www.fotonik.dtu.dk/nyheder/Nyhed?id={925C6AF9-6E64-4771-A8C9-FE67749EBF70} - Forskere demonstrerer teleportation af data  - DTU Fotonik
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=41424b17-8d91-4fe9-9343-d78dd96fd359 - Postdoc(s) in Nanoelectromechanical Spectrometers
+https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=845208cd-c2c0-45db-8198-fff8c4b1a2ad - Academic technician in Semiconductor Nanofabrication
+http://www.facebook.com/DTUFotonik - DTU Fotonik - Startside | Facebook
+https://www.youtube.com/channel/UCiADDjE4C3AMTmThLcSCREQ - DTU Fotonik - YouTube
+https://www.linkedin.com/company/dtu-fotonik?trk=top_nav_home
+https://www.fysik.dtu.dk/service/kontakt - Kontakt - DTU Fysik
+https://www.fysik.dtu.dk:443/english - Forside - DTU Physics
+https://www.fysik.dtu.dk/forskning - Forskning på DTU Fysik - DTU Fysik
+http://www.fluid.dtu.dk/ - Forside - FLUID•DTU
+http://www.imaging.dtu.dk/ - Home - The 3D Imaging Center, 3DIM
+http://www.quantum.dtu.dk/ - Center for Quantum Technologies - QuantumDTU
+http://www.cng.dtu.dk/ - Forside - CNG
+http://www.nano.dtu.dk/ - Forside - NanoDTU
+http://www.oceanlifecentre.dk/ - Centre for Ocean Life -
+http://www.v-sustain.dtu.dk/ - The VILLUM Center for the Science for Sustainable Fuels and Chemicals - The VILLUM Center for the Science of Sustainable Fuels and Chemicals
+http://www.historie.dtu.dk/ - Forside - DTU's historie
+https://www.fysik.dtu.dk/uddannelse - Uddannelse på DTU Fysik - DTU Fysik
+http://www.fysik-nano.fotonik.dtu.dk/ - Forside - fysiknano
+http://www.bornenesuniversitet.dk/ - Børnenes Universitet
+https://www.fysik.dtu.dk/samarbejde - Samarbejde - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik - Om DTU Fysik - DTU Fysik
+http://www.alumni.dtu.dk/ - DTU Alumni - Alumnenetværk for alle med en uddannelse fra DTU (Danmarks Tekniske Universitet) - DTU Alumni
+https://www.fysik.dtu.dk/om-dtu-fysik/nyheder - Nyheder - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/nyheder/Nyhed?id={CFE66A23-7CEB-4795-890B-FF3AF34FF22F} - Ung forsker vil starte virksomhed med salg af bæredygtig gødning - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/nyheder/Nyhed?id={9787C504-5CEA-4425-9157-4604A8AB9864} - Unikt samarbejde mellem forsker og studerende - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/nyheder/Nyhed?id={73BD067C-DC3E-446C-A04B-4C0269120703} - Stor interesse for dansk bidrag til ITER - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/nyheder/Nyhed?id={220CA0E4-F981-4226-B165-3D523AB2B456} - Gymnasieelever får viden om fremtidens energiløsninger - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/kalender - Kalender for DTU Fysik - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/kalender/Arrangement?id={DCC1A1E3-6E80-4096-8830-C109E4C74AD2} - Talk: Molecular simulations of water at metal and metal oxide surfaces - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/kalender/Arrangement?id={70DE4A06-2B76-4ADF-81B2-61B0FFDE1CC5} - Kandidatforsvar af Julius L. Needham: Surface characterization and temperature  programmed desorption of small mass-selected entities - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/kalender/Arrangement?id={7973AB31-65B1-4FE3-A171-1FEA16E82B68} - P.hd. forsvar af Niklas Mørch Secher: Mass Selected Model Systems in Catalysis - From Nanoparticles to Single Atoms - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/kalender/Arrangement?id={AAE86694-8055-4E97-9E0E-1AC46EF22535} - Ph.d.-forsvar af Suzanne Zamany Andersen: Electrochemical N2reduction under ambient conditions - DTU Fysik
+https://www.fysik.dtu.dk/uddannelse/kurser - Kurser på DTU Fysik - DTU Fysik
+https://www.fysik.dtu.dk/uddannelse/projekter - Projekter på DTU Fysik - DTU Fysik
+https://www.fysik.dtu.dk/uddannelse/kurser/sommeruniversitet - Sommeruniversitet på DTU Fysik - DTU Fysik
+https://www.fysik.dtu.dk/uddannelse/nanoteket/gymnasieoevelser - Gymnasieøvelser - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/medarbejdere - Medarbejdere på DTU Fysik - DTU Fysik
+https://www.fysik.dtu.dk/om-dtu-fysik/ledige_stillinger - Ledige stillinger - DTU Fysik
+https://www.fysik.dtu.dk/english/research/publications - Publications - DTU Physics
+https://imaging.dtu.dk/ - Home - The 3D Imaging Center, 3DIM
+https://www.fysik.dtu.dk/om-dtu-fysik/ledige_stillinger/job?id=af5dac49-acdd-469e-b08d-7974ca680659 - Postdoc in Advanced Protocols for Continuous-Variable Quantum Key Distribution
+https://www.fysik.dtu.dk/om-dtu-fysik/ledige_stillinger/job?id=841e5523-bbdb-4d81-bedc-7ff98ed9d700 - PhD scholarship in Computational Atomistic Studies of AC Quantum Transport in the THz Regime
+https://www.fysik.dtu.dk/om-dtu-fysik/ledige_stillinger/job?id=e045b03e-2b2f-4768-9868-aa8720ec2c3c - PhD position in Antiferromagnetism in 2D from first principles
+https://www.food.dtu.dk/service/om-os - I frontlinjen for sund, sikker og bæredygtig mad - DTU Fødevareinstituttet
+https://www.food.dtu.dk/service/kontakt - Kontakt - DTU Fødevareinstituttet
+https://www.food.dtu.dk/service/telefonbog - Telefonbog - DTU Fødevareinstituttet
+https://www.food.dtu.dk:443/english - Forside - DTU Food
+https://www.food.dtu.dk/forskning - Forskning i DTU Fødevareinstituttet - DTU Fødevareinstituttet
