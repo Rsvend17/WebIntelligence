@@ -1,3 +1,4 @@
+import math
 from time import sleep
 from urllib.robotparser import RobotFileParser
 
@@ -49,36 +50,40 @@ for line in crawlList:
 
         for w in sentence_stemmed:
             if w in index:
-                for i in range(len(index[w])):
-                    if crawlcounter in index[w][i]:
-                        index[w][i][crawlcounter] = index[w][i][crawlcounter] + 1
-                    elif(i == (len(index[w]) - 1)):
-                        index[w].append({crawlcounter: 1})
+                if crawlcounter in index[w]:
+                    index[w][crawlcounter] = index[w][crawlcounter] + 1
+                else:
+                    index[w][crawlcounter] = 1
 
             else:
-                index[w] = [{crawlcounter: 1}]
+                index[w] = {crawlcounter: 1}
+
+for w in index:
+    idf = math.log(len(crawleddict) / len(index[w]))
+    index[w]['idf'] = idf
+print(index)
 
 
 
-    # for a in r_parse.find_all('a'):
-    #    if a.has_attr("href"):
-    #       if a['href'][0:4] == 'http' and not (a['href'] in crawlList or a['href'] + "/" in crawlList):
-    #          crawlList.append(a['href'])
-    # print(len(crawlList))
-    # print("popping:  " + line + " from queue")
-    # try:
-    #   title = r_parse.find('title').string.strip()
-    # except:
-    #   crawledFile.write(line + "\n")
-    #  continue
-    # rawledString  = line + " - "+ title + "\n"
-    # crawledFile.write(crawledString)
-    # crawledList.append(line)
-    # print("crawled: " + str(len(crawledList)))
+# for a in r_parse.find_all('a'):
+#    if a.has_attr("href"):
+#       if a['href'][0:4] == 'http' and not (a['href'] in crawlList or a['href'] + "/" in crawlList):
+#          crawlList.append(a['href'])
+# print(len(crawlList))
+# print("popping:  " + line + " from queue")
+# try:
+#   title = r_parse.find('title').string.strip()
+# except:
+#   crawledFile.write(line + "\n")
+#  continue
+# rawledString  = line + " - "+ title + "\n"
+# crawledFile.write(crawledString)
+# crawledList.append(line)
+# print("crawled: " + str(len(crawledList)))
 
 crawledFile.close()
 
-print(index)
+# print(index)
 # for item in index['twitter']:
 #    print(crawleddict[item])
 
